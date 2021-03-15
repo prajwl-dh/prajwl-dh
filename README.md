@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prajwl-dh
-- 👀 I’m interested in programming...
+- 👋 Hi, I’m Prajwal Dhungana
+- 👀 I’m interested in programming and software development...
 - 🌱 I’m currently learning java...
-- 📫 How to reach me : dhunganaprajwal1@gmail.com 
+- 📫 How to reach me : dhunganaprajwal1@gmail.com or https://www.facebook.com/phenpraz1/ 
 
 <!---
 prajwl-dh/prajwl-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
