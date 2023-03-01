@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Prajwal Dhungana
-- 👀 I’m interested in programming and computer science...
+- 👨‍💻 Computer Science and Technology has always been my favourite and I like to learn new stuffs every day
+- 📖 I am great in learning new stuffs, problem solving as well as leadership
 - 🌱 I’m currently learning robotics using arduino and raspberry pi...
 - 📫 How to reach me : dhunganaprajwal1@gmail.com or https://www.facebook.com/phenpraz1/ 
 
