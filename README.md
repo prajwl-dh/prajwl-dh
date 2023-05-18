@@ -2,7 +2,7 @@
 - 👨‍💻 Computer Science and Technology has always been my favourite and I like to learn new stuffs every day
 - ⚽ I also love to play soccer with my friends during free time
 - 📖 I am great in learning, problem solving, as well as leadership
-- 🌱 I’m currently learning robotics using arduino and raspberry pi...
+- 🌱 I’m currently learning robotics using arduino, raspberry pi, and ROS...
 - 📫 How to reach me : dhunganaprajwal1@gmail.com or https://www.facebook.com/phenpraz1/ 
 
 <!---
