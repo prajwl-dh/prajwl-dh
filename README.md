@@ -4,7 +4,7 @@
 Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Specialist | Passionate UI/UX Designer | Full-Stack Skills with Node.js , Next.js | Cloud Solutions | Advocate for Code Quality & Innovation
 <br/>
 
-## 🔍 Find Me
+## 🔍 Where To Find Me
 - Website - [www.prajwalonline.com](https://www.prajwalonline.com)
 - Facebook - [Prajwal Dhungana](https://www.facebook.com/profile.php?id=100086397636416)
 - Linkedin - [Prajwal Dhungana](https://www.linkedin.com/in/prajwal-dhungana-214248130/)
