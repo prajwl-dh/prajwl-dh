@@ -12,6 +12,13 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
 ## 🤷 About
 🚀 As a passionate Frontend Developer with 5+ years in the tech industry, I specialize in crafting responsive, user-centric interfaces with JavaScript, TypeScript, ReactJS, and Angular. My love for UI/UX design shines through in my work with Figma and Adobe Creative Suite, complemented by a solid foundation in backend technologies like Node.js and cloud services. I'm a fervent advocate for open source, best practices, and continuous learning, always on the lookout to collaborate on projects that push the boundaries of digital innovation. Let's create something amazing together!
 
+## 🔥 Skills
+<p align="center">
+  <a href="https://www.prajwalonline.com/about">
+    <img src="https://skillicons.dev/icons?i=androidstudio,atom,bash,bootstrap,c,cs,cpp,css,django,docker,dotnet,eclipse,flask,git,github,gitlab,heroku,idea,java,js,jenkins,jquery,linux,md,matlab,mongodb,mysql,nextjs,nginx,nodejs,php,postgres,postman,py,qt,react,redis,regex,sass,sqlite,selenium,ts,vim,visualstudio,vite,vscode,webpack" />
+  </a>
+</p>
+
 <!---
 prajwl-dh/prajwl-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
