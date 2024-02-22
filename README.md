@@ -20,6 +20,42 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
   </a>
 </p>
 
+## ✔️ Profile Summary
+<p align="center">
+ <a href="https://github.com/prajwl-dh">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwl-dh&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt&line_height=48" alt="Prajwal's GitHub Stats"/>
+ </a>
+ 
+ <a href="https://github.com/prajwl-dh">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwl-dh&show_icons=true&langs_count=5&hide_border=false&theme=gruvbox" alt="Prajwal's GitHub Stats"/>
+ </a>
+</p>
+
+## 📊 Stats
+<p align="center">
+ <a href="https://github.com/prajwl-dh">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=algolia" alt="Prajwal's GitHub Stats" />
+ </a>
+ 
+ <a href="https://github.com/prajwl-dh">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwl-dh" alt="prajwl-dh" />
+ </a>
+</p>
+
+## 🏆 Github Trophies
+<p align="center">
+ <a href="[https://github.com/nightmaregaurav](https://github.com/prajwl-dh)">
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=prajwl-dh&theme=matrix&no-frame=true&no-bg=true&margin-w=2" alt="prajwl-dh" />
+ </a>
+</p>
+
+## 📈 Contribution Graph
+<p align="center">
+ <a href="https://github.com/prajwl-dh">
+   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwl-dh&theme=github-compact" />
+ </a>
+</p>
+
 <!---
 prajwl-dh/prajwl-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
