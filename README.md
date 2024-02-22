@@ -15,7 +15,7 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
 ## 🔥 Skills
 <p align="center">
   <a href="https://www.prajwalonline.com/about">
-    <img src="https://skillicons.dev/icons?i=html,js,css,express,git, github, figma,firebase,gcp,java,arch,apple,arduino,atom,aws,bash,bootstrap,c,docker,gmail,go,graphql," />
+    <img src="https://skillicons.dev/icons?i=html,js,css,express,git,github, figma,firebase,gcp,java,arch,apple,arduino,atom,aws,bash,bootstrap,c,docker,gmail,go,graphql," />
   </a>
 </p>
 
