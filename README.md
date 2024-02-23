@@ -22,7 +22,7 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
 
 ## 📊 Stats
 <p align="center">
-   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=github" alt="Prajwal's GitHub Stats" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=github" alt="Prajwal's GitHub Stats" /><br />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prajwl-dh&theme=github" alt="Prajwal's GitHub Stats" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwl-dh&theme=github" alt="Prajwal's GitHub Stats" />
 </p>
