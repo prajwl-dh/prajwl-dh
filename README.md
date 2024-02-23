@@ -20,21 +20,14 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
   </a>
 </p>
 
-## ✔️ Profile Summary
-<p align="center">
- <a href="https://github.com/prajwl-dh">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajwl-dh&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&theme=cobalt&rank_icon=github" alt="Prajwal's GitHub Stats"/>
- </a>
- 
- <a href="https://github.com/prajwl-dh">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwl-dh&show_icons=true&langs_count=5&hide_border=false&theme=gruvbox&layout=compact" alt="Prajwal's GitHub Stats"/>
- </a>
-</p>
-
 ## 📊 Stats
 <p align="center">
  <a href="https://github.com/prajwl-dh">
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=algolia" alt="Prajwal's GitHub Stats" />
+ </a>
+
+ <a href="https://github.com/prajwl-dh">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwl-dh&show_icons=true&langs_count=5&hide_border=false&theme=gruvbox&layout=compact" alt="Prajwal's GitHub Stats"/>
  </a>
  
  <a href="https://github.com/prajwl-dh">
