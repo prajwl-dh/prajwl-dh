@@ -42,13 +42,6 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
  </a>
 </p>
 
-## 🏆 Github Trophies
-<p align="center">
- <a href="[https://github.com/nightmaregaurav](https://github.com/prajwl-dh)">
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=prajwl-dh&theme=matrix&no-frame=true&no-bg=true&margin-w=2" alt="prajwl-dh" />
- </a>
-</p>
-
 ## 📈 Contribution Graph
 <p align="center">
  <a href="https://github.com/prajwl-dh">
