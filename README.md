@@ -27,7 +27,7 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
  </a>
  
  <a href="https://github.com/prajwl-dh">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwl-dh&show_icons=true&langs_count=5&hide_border=false&theme=gruvbox" alt="Prajwal's GitHub Stats"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwl-dh&show_icons=true&langs_count=5&hide_border=false&theme=gruvbox&layout=compact" alt="Prajwal's GitHub Stats"/>
  </a>
 </p>
 
