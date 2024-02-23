@@ -31,13 +31,6 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
  </a>
 </p>
 
-## 📈 Contribution Graph
-<p align="center">
- <a href="https://github.com/prajwl-dh">
-   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prajwl-dh&theme=github-compact" />
- </a>
-</p>
-
 <!---
 prajwl-dh/prajwl-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
