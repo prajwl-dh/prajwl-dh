@@ -1,3 +1,7 @@
+<p align="center">
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=algolia" alt="Prajwal's GitHub Stats" />
+</p>
+
 # 👋 Hi, I’m Prajwal Dhungana <img align="center" src="https://komarev.com/ghpvc/?username=prajwl-dh&color=green" alt="Prajwal's Profile Views" />
 
 Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Specialist | Passionate UI/UX Designer | Full-Stack Skills with Node.js , Next.js | Cloud Solutions | Advocate for Code Quality & Innovation
@@ -23,7 +27,6 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
 ## 📊 Stats
 <p align="center">
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=algolia" alt="Prajwal's GitHub Stats" />
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwl-dh" alt="prajwl-dh" />
 </p>
 
 <!---
