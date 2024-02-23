@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=algolia" alt="Prajwal's GitHub Stats" />
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=github" alt="Prajwal's GitHub Stats" />
 </p>
 
 # 👋 Hi, I’m Prajwal Dhungana <img align="center" src="https://komarev.com/ghpvc/?username=prajwl-dh&color=green" alt="Prajwal's Profile Views" />
