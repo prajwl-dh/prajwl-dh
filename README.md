@@ -21,7 +21,6 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats" alt="Prajwal's GitHub Stats" />
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwl-dh&theme=react" alt="Prajwal's GitHub Stats" />
 </p>
 
