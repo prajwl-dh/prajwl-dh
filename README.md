@@ -15,16 +15,6 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
   </a>
 </p>
 
-## 📊 Stats
-<p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=react" alt="Prajwal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwl-dh&theme=react" alt="Prajwal's GitHub Stats" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajwl-dh&theme=react&utcOffset=-6" alt="Prajwal's GitHub Stats" />
-</p>
-
 <!---
 prajwl-dh/prajwl-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
