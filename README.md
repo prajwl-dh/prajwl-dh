@@ -15,8 +15,6 @@ Frontend Engineer | Open Source Contributor | JavaScript & TypeScript | React Sp
   </a>
 </p>
 
-![Snake animation](https://github.com/prajwl-dh/prajwl-dh/blob/output/github-contribution-grid-snake.svg)
-
 ## 📊 Stats
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=react" alt="Prajwal's GitHub Stats" />
