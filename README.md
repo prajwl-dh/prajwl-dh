@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Prajwal Dhungana <img align="center" src="https://komarev.com/ghpvc/?username=prajwl-dh&color=green" alt="Prajwal's Profile Views" />
 
-Full Stack Developer | Open Source Contributor | JavaScript & TypeScript | React | Angular | Next.js | Cloud Solutions | Advocate for Code Quality & Innovation
+Full Stack Developer | Open Source Contributor | React | Angular | Next.js | Cloud Solutions | Advocate for Code Quality & Innovation
 <br/>
 
 ## 🔍 Where To Find Me
