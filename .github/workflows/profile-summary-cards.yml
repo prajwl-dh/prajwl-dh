@@ -20,6 +20,6 @@ jobs:
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.profile-summary-cards-token }}
+          GITHUB_TOKEN: ${{ secrets.PROFILESUMMARYCARDSTOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
