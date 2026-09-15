@@ -23,3 +23,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILESUMMARYCARDSTOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: -5
+          THEME: "transparent"
+          ANIMATION: "load"
