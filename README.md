@@ -17,12 +17,12 @@ Full Stack Developer | Open Source Contributor | React | Next.js | Java | Node.j
 
 ## 📊 Stats
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwl-dh&theme=react" alt="Prajwal's GitHub Stats" />
+  <img align="center" src="https://raw.githubusercontent.com/prajwl-dh/prajwl-dh/main/profile-summary-card-output/transparent/0-profile-details.svg" alt="Prajwal's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prajwl-dh&theme=react" alt="Prajwal's GitHub Stats" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prajwl-dh&theme=react&utcOffset=-6" alt="Prajwal's GitHub Stats" />
+  <img align="center" src="https://raw.githubusercontent.com/prajwl-dh/prajwl-dh/main/profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Prajwal's GitHub Stats" />
+  <img align="center" src="https://raw.githubusercontent.com/prajwl-dh/prajwl-dh/main/profile-summary-card-output/transparent/4-productive-time.svg" alt="Prajwal's GitHub Stats" />
 </p>
 <!---
 prajwl-dh/prajwl-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
