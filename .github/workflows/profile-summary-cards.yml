@@ -1,0 +1,19 @@
+name: GitHub-Profile-Summary-Cards
+'on':
+  create: null
+  schedule:
+    - cron: '* */24 * * *'
+  workflow_dispatch: null
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-cards
+    permissions:
+      contents: write
+  steps:
+    - uses: actions/checkout@v2
+    - uses: vn7n24fzkq/github-profile-summary-cards@release
+      env:
+        GITHUB_TOKEN: '${{ secrets.profile-summary-cards-token }}'
+      with:
+        USERNAME: '${{ github.repository_owner }}'
