@@ -24,5 +24,4 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: -5
-          THEME: "transparent"
           ANIMATION: "load"
