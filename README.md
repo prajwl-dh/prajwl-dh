@@ -5,6 +5,8 @@
 [prajwalonline.com](https://www.prajwalonline.com) | Open Source Contributor
 <br/>
 
+I enjoy learning new things, exploring technology, and solving problems. I’m always curious to try new ideas, improve my skills, and contribute to projects that make a difference.
+
 ## 📊 Stats
 
 <p align="center">
