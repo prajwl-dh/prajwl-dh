@@ -1,21 +1,12 @@
-# 👋 Hi, I’m Prajwal Dhungana <img align="center" src="https://komarev.com/ghpvc/?username=prajwl-dh&color=green" alt="Prajwal's Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=prajwl-dh&color=green" alt="Prajwal's Profile Views" /></br>
 
-Full Stack Developer | Open Source Contributor | React | Next.js | Java | Node.js | Cloud Solutions | Advocate for Code Quality & Innovation
+# 👋 Hi, I’m Prajwal Dhungana
+
+[prajwalonline.com](https://www.prajwalonline.com) | Open Source Contributor
 <br/>
 
-## 🔍 Where To Find Me
-- Website - [www.prajwalonline.com](https://www.prajwalonline.com)
-- Facebook - [Prajwal Dhungana](https://www.facebook.com/profile.php?id=100086397636416)
-- Linkedin - [Prajwal Dhungana](https://www.linkedin.com/in/prajwal-dhungana-214248130/)
-
-## 🔥 Skills
-<p align="center">
-  <a href="https://www.prajwalonline.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,js,ts,css,tailwind,angular,react,redux,express,nodejs,nextjs,figma,materialui,ps,git,github,postgres,mongodb,sqlite,mysql,firebase,gcp,aws,azure,postman,jest,jquery,php,wordpress,bootstrap,regex,npm,vite,webpack,nginx,docker,go,graphql,jenkins,java,c,py,arduino,opencv,tensorflow,raspberrypi,linux,bash,redhat,vscode,atom,arch,mint,ubuntu,debian,apple,windows" />
-  </a>
-</p>
-
 ## 📊 Stats
+
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/prajwl-dh/prajwl-dh/main/profile-summary-card-output/react/0-profile-details.svg" alt="Prajwal's GitHub Stats" />
 </p>
@@ -23,6 +14,14 @@ Full Stack Developer | Open Source Contributor | React | Next.js | Java | Node.j
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/prajwl-dh/prajwl-dh/main/profile-summary-card-output/react/1-repos-per-language.svg" alt="Prajwal's GitHub Stats" />
   <img align="center" src="https://raw.githubusercontent.com/prajwl-dh/prajwl-dh/main/profile-summary-card-output/react/4-productive-time.svg" alt="Prajwal's GitHub Stats" />
+</p>
+
+## 🔥 Tech
+
+<p align="center">
+  <a href="https://www.prajwalonline.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=angular,react,redux,nextjs,remix,materialui,tailwind,bootstrap,jquery,html,css,javascript,ts,babel,vite,webpack,jest,vitest,regex,latex,md,py,go,rust,java,c,express,nestjs,nodejs,bun,npm,pnpm,yarn,gradle,maven,spring,hibernate,graphql,prisma,appwrite,firebase,supabase,mongodb,mysql,postgresql,sqlite,redis,elasticsearch,kafka,docker,kubernetes,aws,azure,gcp,cloudflare,netlify,vercel,nginx,jenkins,githubactions,git,github,gitlab,bitbucket,linux,ubuntu,debian,arch,mint,kali,windows,apple,bash,powershell,neovim,vim,vscode,idea,eclipse,arduino,opencv,gitlab,postman,grafana,figma,notion,obsidian,gmail,discord,electron,wordpress,appwrite,jenkins,gradle,webpack,githubactions,bitbucket,cloudflare,git,github,gitlab,bitbucket,elasticsearch,kafka,redis,mongodb,mysql,postgresql,sqlite,supabase,firebase,appwrite,aws,azure,gcp,docker,kubernetes,nginx,netlify,vercel,jenkins,githubactions,vitest,jest,gradle,maven,npm,pnpm,yarn,bun,latex,md,regex,arduino,opencv,figma,notion,obsidian,gmail,discord,wordpress" />
+  </a>
 </p>
 <!---
 prajwl-dh/prajwl-dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
