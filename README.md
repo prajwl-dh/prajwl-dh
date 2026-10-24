@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=prajwl-dh&color=green" alt="Prajwal's Profile Views" /></br>
+![](https://komarev.com/ghpvc/?username=prajwl-dh&color=green)
 
 # 👋 Hi, I’m Prajwal Dhungana
 
